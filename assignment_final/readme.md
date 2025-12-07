@@ -3,8 +3,11 @@
 ## Overview
 The goal of this assignment is to design a small, realistic healthcare cloud solution that integrates multiple services we have used this fall semester (e.g., storage, compute, databases, AI/analytics, containers/serverless)
 
-**Design:**
+### Design:
 Produce a clear **solution architecture and implementation plan** that shows how you would use cloud services together to solve a specific healthcare problem.
+
+### Concrete healthcare scenario: 
+A simple patient intake and triage app for a clinic
 
 ## Structure:
 ```text

@@ -1,5 +1,3 @@
-Concrete healthcare scenario: A simple patient intake and triage app for a clinic
-
 ## Problem Statement
 Clinics often face delays and inefficiencies during patient intake and triage, since many of them still rely on paper forms or have to manually enter each patient's information during check-ins. These processes lead to long wait times and missing or inconsistent information. Providers often have limited time to manually review each patient's current symptoms, insurance, and medical records. 
 
