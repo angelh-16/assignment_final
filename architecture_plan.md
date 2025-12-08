@@ -25,4 +25,6 @@
 
 ## Security, identity, and governance basics
 
+To ensure HIPPA-aligned practices, several GCP security controls will be used. 
+
 ## Cost and operational considerations
